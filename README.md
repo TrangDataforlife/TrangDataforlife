@@ -29,6 +29,18 @@ I'm a final-year Management Information System (MIS) at Ho Chi Minh city of Bank
 | <br>**BALSAMIQ** | <br>Weather website wireframe | A wireframe using balsamiq helps me "draw" quickly my idea which is about weather website beyond weather app in Python, lauching a web for everyone easily use | <br>[Click here to Find out](https://balsamiq.cloud/s8c8m8e/pwfutf3) |
 | <br>**Power BI** | <br>HR analysis dashboard | this project, showcasing my skills in data handling, and user-centric, sharpen my analytical thinking and problem-solving more by challenging my initial questions to find out which right questions need to ask.| <br>[Click here to Find out](https://github.com/TrangDataforlife/HR_Dashboard) |
 
+### 🥇 My Self-learning TESTIMONIAL:
+
+| IT BA TOOLKITS | GENRE | TESTIMONIAL |
+| :---: | :---: | :--- |
+| <img src="LINK_LOGO_AIGLE" width="150"/> | Certificate | Get the most out of Google Aigle Essentials <br> [View Certificate](LINK_CHUNG_CHI) |
+| <img src="LINK_LOGO_POSTMAN" width="150"/> | Certificate | Get the most out of Postman <br> [View Certificate](LINK_CHUNG_CHI) 
+| <img src="LINK_LOGO_SQL" width="150"/> | Certificate | Get the most out of SQL <br> [View Certificate](LINK_CHUNG_CHI) 
+| <img src="LINK_LOGO_DA" width="150"/> | Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](LINK_CHUNG_CHI) 
+| <img src="LINK_LOGO_Biz" width="150"/> | Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](LINK_CHUNG_CHI)
+
+
+
 ## 🔗 Let's Connect
 * 🌐 **Website Portfolio:** [Visit My Website](https://ux-portfolio-00e467.webflow.io/)
 * 💼 **LinkedIn:** [linkedin.com/in/trangnguyen](https://www.linkedin.com/in/nguyenhaphuongtrang/)
