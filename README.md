@@ -41,7 +41,8 @@ I'm a final-year Management Information System (MIS) at Ho Chi Minh city of Bank
 | | Badge | **Data Analytics Professional Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/884fd356-c3dd-4c6b-81d6-79feaec673bb) |
 | <img src="digital_badge.png" width="150"/> | Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://coursera.org/share/1a83ea1c580f5a103bcbda9225415415) |
 | | Badge | **Digital Marketing & E-commerce Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/90fe982b-53c4-4b09-b037-dd7d55990649) |
-
+| <img src="AI_badge.png" width="150"/> | Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
+| | Badge | **AI Badge** <br> [View Badge]([https://www.credly.com/earner/earned/badge/90fe982b-53c4-4b09-b037-dd7d55990649](https://www.credly.com/badges/6dd4cd42-6162-4f1d-9372-302d6999504d)) |
 
 ## 🔗 Let's Connect
 * 🌐 **Website Portfolio:** [Visit My Website](https://ux-portfolio-00e467.webflow.io/)
