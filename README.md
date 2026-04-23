@@ -35,7 +35,7 @@ I'm a final-year Management Information System (MIS) at Ho Chi Minh city of Bank
 | IT BA TOOLKITS | GENRE | TESTIMONIAL |
 | :---: | :---: | :--- |
 | <img src="LINK_LOGO_AIGLE" width="150"/> | Certificate | Get the most out of Google Aigle Essentials <br> [View Certificate](LINK_CHUNG_CHI) |
-| <img src="Postman_Logo.JPG" width="150"/> | Certificate | Get the most out of Postman <br> [View Certificate](https://postman.badges.parchment.com/public/assertions/NquPaxWzToCvrwNuBbAmeg?identity__email=trangnguyen08112004@gmail.com) 
+| <img src="Postman_Logo.JPG" width="150"/> | Certificate | Get the most out of Postman <br> [View Certificate]([https://postman.badges.parchment.com/public/assertions/NquPaxWzToCvrwNuBbAmeg?identity__email=trangnguyen08112004@gmail.com](https://badges.parchment.com/public/assertions/NquPaxWzToCvrwNuBbAmeg?utm_source=url_copy&identity__email=trangnguyen08112004%40gmail.com)) 
 | <img src="LINK_LOGO_SQL" width="150"/> | Certificate | Get the most out of SQL - Intermediate Hackerrank <br> [View Certificate](LINK_CHUNG_CHI) 
 | <img src="LINK_LOGO_DA" width="150"/> | Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](LINK_CHUNG_CHI) 
 | <img src="LINK_LOGO_Biz" width="150"/> | Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](LINK_CHUNG_CHI)
