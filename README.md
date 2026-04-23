@@ -3,14 +3,6 @@ I'm a final-year Management Information System (MIS) at Ho Chi Minh city of Bank
 
 <p align="center">
   <a href="https://ux-portfolio-00e467.webflow.io/">
-    <img src="UXproject.JPG" width="800" />
-    <br>
-    <em>👉 Read UX project </em>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://ux-portfolio-00e467.webflow.io/">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
