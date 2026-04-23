@@ -10,7 +10,7 @@ I'm a final-year Management Information System (MIS) at Ho Chi Minh city of Bank
 
 <p align="center">
   <a href="https://ux-portfolio-00e467.webflow.io/">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20My%20UX/UI_Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
