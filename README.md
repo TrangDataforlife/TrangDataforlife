@@ -35,7 +35,7 @@ I'm a final-year Management Information System (MIS) at Ho Chi Minh city of Bank
 | IT BA TOOLKITS | GENRE | TESTIMONIAL |
 | :---: | :---: | :--- |
 | <img src="LINK_LOGO_AIGLE" width="150"/> | Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](LINK_CHUNG_CHI) |
-| <img src="Postman_Logo.JPG" width="150"/> | Certificate | Get the most out of Postman <br> [View Certificate](https://badges.parchment.com/public/assertions/NquPaxWzToCvrwNuBbAmeg) |
+| <img src="Postman_Logo.JPG" width="150"/> | Certificate | Get the most out of Postman <br> [View Certificate](Postman_cert.JPG) |
 | <img src="LINK_LOGO_SQL" width="150"/> | Certificate | Get the most out of SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/YOUR_ID) |
 | <img src="LINK_LOGO_DA" width="150"/> | Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](LINK_CHUNG_CHI) |
 | <img src="LINK_LOGO_Biz" width="150"/> | Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](LINK_CHUNG_CHI) |
