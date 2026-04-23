@@ -14,7 +14,11 @@ I'm a final-year Management Information System (MIS) at Ho Chi Minh city of Bank
   </a>
 </p>
 
+### 📜 LANGUAGES & OFFICE INFORMATICS TESTIMONIALS:
 
+| LANGUAGES | OFFICE INFORMATICS |
+| :--- | :--- |
+| **IELTS** <br> [YET TO TAKE THE EXAM](#) | **MOS 2019 - Specialist (Excel, PowerPoint, Word)** <br><br> • [Microsoft Word Specialist 2019](LINK_CHUNG_CHI_WORD) <br> • [Microsoft Excel Specialist 2019](LINK_CHUNG_CHI_EXCEL) <br> • [Microsoft PowerPoint Specialist 2019](LINK_CHUNG_CHI_PP) |
 
 ## 🔗 Let's Connect
 * 🌐 **Website Portfolio:** [Visit My Website](https://ux-portfolio-00e467.webflow.io/)
