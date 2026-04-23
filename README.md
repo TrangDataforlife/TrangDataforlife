@@ -36,7 +36,7 @@ I'm a final-year Management Information System (MIS) at Ho Chi Minh city of Bank
 | :---: | :---: | :--- |
 | <img src="LINK_LOGO_AIGLE" width="150"/> | Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](LINK_CHUNG_CHI) |
 | <img src="Postman_Logo.JPG" width="150"/> | Certificate | Get the most out of Postman id: 69e60ed84a8ef58e25531b65 <br> [View Certificate](Postman_cert.JPG) |
-| <img src="SQL_icon.png" width="150"/> | Certificate | Get the most out of SQL - Intermediate Hackerrank <br> [View Certificate](https://drive.google.com/file/d/1pH2HXJ-Zp45L7Xzuawu4oh1d8NNlsP88/view?usp=sharing) |
+| <img src="SQL_icon.png" width="150"/> | Certificate | Get the most out of SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/iframe/284f95144627) |
 | <img src="LINK_LOGO_DA" width="150"/> | Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](LINK_CHUNG_CHI) |
 | <img src="LINK_LOGO_Biz" width="150"/> | Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](LINK_CHUNG_CHI) |
 
