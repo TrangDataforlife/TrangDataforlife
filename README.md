@@ -3,7 +3,7 @@ I'm a final-year Management Information System (MIS) student at Ho Chi Minh city
 
 <p align="center">
   <a href="https://ux-portfolio-00e467.webflow.io/">
-    <img src="UXbackground.JPG" width="800" />
+    <img src="UX.JPG" width="800" />
     <br>
   </a>
 </p>
