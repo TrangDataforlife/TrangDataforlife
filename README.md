@@ -2,14 +2,14 @@
 I'm a final-year Management Information System (MIS) student at Ho Chi Minh city of Banking university, pursuing Business Analyst career. To be a good Business Analyst, I have learnt projects regarding Data analysis, UX/UI, and also basic understanding of RESTapi in HTTP protocol.
 
 <p align="center">
-  <a href="https://ux-portfolio-00e467.webflow.io/">
+  <a href="https://ux-portfolio-00e467.design.webflow.com/?locale=en&itemId=69d0c979acaaee58b06e6e15&pageId=69d0c979acaaee58b06e6d88&workflow=sitePreview">
     <img src="UX.JPG" width="800" />
     <br>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://ux-portfolio-00e467.webflow.io/">
+  <a href="[https://ux-portfolio-00e467.webflow.io/](https://ux-portfolio-00e467.design.webflow.com/?locale=en&itemId=69d0c979acaaee58b06e6e15&pageId=69d0c979acaaee58b06e6d88&workflow=sitePreview)">
     <img src="https://img.shields.io/badge/View%20My%20UX/UI_Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
