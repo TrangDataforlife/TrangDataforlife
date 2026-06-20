@@ -48,7 +48,7 @@ I'm a final-year Management Information System (MIS) student at Ho Chi Minh city
 | | Badge | **Digital Marketing & E-commerce Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/90fe982b-53c4-4b09-b037-dd7d55990649) |
 | <img src="AI_badge.png" width="150"/> | Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
 | | Badge | **AI Badge** <br> [View Badge](https://www.credly.com/badges/6dd4cd42-6162-4f1d-9372-302d6999504d) |
-| Project Management | Certificate | Google Project Management Professional Certificate <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/9EH20KD7OCLC) |
+| <br>**Project Management** | Certificate | Google Project Management Professional Certificate <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/9EH20KD7OCLC) |
 
 ## 🔗 Let's Connect
 * 🌐 **Website Portfolio:** [Visit My Website](https://ux-portfolio-00e467.webflow.io/)
