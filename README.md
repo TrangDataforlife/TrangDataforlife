@@ -32,6 +32,7 @@ I'm a final-year Management Information System (MIS) student at Ho Chi Minh city
 || Image Hands-on || **Balsamiq Image** <br> [View](https://github.com/TrangDataforlife/Balsamiq-workspace/blob/main/README.md) |
 | <br>**SCRUM** | <br>SCRUM Practices in Google Sheets | I have already applied SCRUM approach I learnt from Google Agile Essentials to simulate the Sprint workflow for a fictional company | <br>[Click here to Find out](https://docs.google.com/spreadsheets/d/18Bm-vE0J34J1SuZF5xliWIBnMAlyljvlv87KgwBsGAY/edit?usp=sharing) |
 | <br>**Power BI** | <br>HR analysis dashboard | this project, showcasing my skills in data handling, and user-centric, sharpened my analytical thinking and problem-solving more by challenging my initial questions to find out which right questions need to ask.| <br>[Click here to Find out](https://github.com/TrangDataforlife/HR_Dashboard) |
+| | Here I used to archive my data analysis projects regarding digital marketing performance analysis| <br> [My Data Analyst Portfolio](https://app.notion.com/p/Data-Analyst-Portfolio-practice-tool-21d8ba8ff45c80f1b741c2dae08d7a9a)
 
 ### 🥇 My Self-learning TESTIMONIAL:
 
