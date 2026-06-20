@@ -36,7 +36,7 @@ I'm a final-year Management Information System (MIS) student at Ho Chi Minh city
 
 ### 🥇 My Self-learning TESTIMONIAL:
 
-| IT BA TOOLKITS | GENRE | TESTIMONIAL |
+| IT DA/BA TOOLKITS | GENRE | TESTIMONIAL |
 | :---: | :---: | :--- |
 | <img src="LOGO_Agile.png" width="150"/> | Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/93RTQLJUZ9PA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) |
 || Badge | **Agile Badge** <br> [View Badge](https://www.credly.com/badges/be57c282-708e-4c6e-8d77-fab43fcad02d) |
