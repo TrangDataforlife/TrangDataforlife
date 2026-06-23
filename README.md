@@ -1,5 +1,5 @@
 ## About me!
-I'm a final-year Management Information System (MIS) student at Ho Chi Minh city of Banking university, pursuing Data Analyst career. My projects regarding Data analysis, UI/UX, design thinking, and also basic understanding of RESTapi in HTTP protocol.
+I'm a final-year Management Information System (MIS), minoring E-commerce management student at Ho Chi Minh city of Banking university, waiting for graduation in August, 2026, and pursuing Data Analyst career. My projects regarding Data analysis, UI/UX, design thinking, and also basic understanding of RESTapi in HTTP protocol.
 
 <p align="center">
   <a href="https://ux-portfolio-00e467.webflow.io/project/the-main">
