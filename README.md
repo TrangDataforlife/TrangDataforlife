@@ -53,6 +53,6 @@ I'm a final-year Management Information System (MIS), minoring E-commerce manage
 | **Project Management** | 8. Certificate | Google Project Management Professional Certificate <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/9EH20KD7OCLC) |
 
 ## 🔗 Let's Connect
-* 🌐 **Website Portfolio:** [Visit My Website](https://ux-portfolio-00e467.webflow.io/)
+* 🌐 **Website UX/UI - Product Owner Portfolio:** [Visit My Website](https://ux-portfolio-00e467.webflow.io/)
 * 💼 **LinkedIn:** [linkedin.com/in/trangnguyen](https://www.linkedin.com/in/nguyenhaphuongtrang/)
 * 📧 **Email:** phuongtrangnguyenha.work@gmail.com
