@@ -41,7 +41,7 @@ I'm a final-year Management Information System (MIS) student at Ho Chi Minh city
 | :---: | :---: | :--- |
 | <img src="DA_badge.png" width="150"/> | Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](https://coursera.org/share/443949fc903e2df4934bb92b2474b70e) |
 | | Badge | **Data Analytics Professional Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/884fd356-c3dd-4c6b-81d6-79feaec673bb) |
-| | | **Quantitative Analysis** |
+| **Quantitative Analysis** |
 | | Certificate | Quantitative Techniques Certificate|Columbia+ <br> [View Certificate](https://images.credential.net/embed/47yhsf7p_1781027352398.png) |
 | <img src="LOGO_Agile.png" width="150"/> | Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/93RTQLJUZ9PA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) |
 || Badge | **Agile Badge** <br> [View Badge](https://www.credly.com/badges/be57c282-708e-4c6e-8d77-fab43fcad02d) |
