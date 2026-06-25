@@ -45,9 +45,9 @@ I'm a final-year Management Information System (MIS), minoring E-commerce manage
 | | Badge | **AI Badge** <br> [View Badge](https://www.credly.com/badges/6dd4cd42-6162-4f1d-9372-302d6999504d) |
 | **Claude 101** | Certificate | Claude 101 - Antrhopic Certificate <br> [View Certificate](certificate_claude.pdf) |
 | <img src="DA_badge.png" width="150"/> | 2. Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](https://coursera.org/share/443949fc903e2df4934bb92b2474b70e) |
-| | Badge | **Digital Marketing & E-commerce Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/90fe982b-53c4-4b09-b037-dd7d55990649) |
-| <img src="digital_badge.png" width="150"/> | 3. Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://coursera.org/share/1a83ea1c580f5a103bcbda9225415415) |
 | | Badge | **Data Analytics Professional Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/884fd356-c3dd-4c6b-81d6-79feaec673bb) |
+| <img src="digital_badge.png" width="150"/> | 3. Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://coursera.org/share/1a83ea1c580f5a103bcbda9225415415) |
+| | Badge | **Digital Marketing & E-commerce Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/90fe982b-53c4-4b09-b037-dd7d55990649) |
 | <img src="SQL_icon.png" width="150"/> | 4. Certificate | SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/iframe/284f95144627) |
 | **Quantitative Analysis** | 5. Certificate | Quantitative Techniques Certificate - Columbia+ <br> [View Certificate](https://images.credential.net/embed/47yhsf7p_1781027352398.png) |
 | <img src="LOGO_Agile.png" width="150"/> | 6. Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/93RTQLJUZ9PA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) |
