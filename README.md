@@ -43,7 +43,7 @@ I'm a final-year Management Information System (MIS), minoring E-commerce manage
 | :---: | :---: | :--- |
 | <img src="AI_badge.png" width="150"/> | 1. Certificate | Get the most out of AI <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
 | | Badge | **AI Badge** <br> [View Badge](https://www.credly.com/badges/6dd4cd42-6162-4f1d-9372-302d6999504d) |
-| <img src="certificate-gtx8cfermupx-1781934528.png" width="150"/>| Certificate | Claude 101 - Anthropic |
+| **Claude 101** | Certificate | Claude 101 - Antrhopic Certificate <br> [View Certificate]() |
 | <img src="DA_badge.png" width="150"/> | 2. Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](https://coursera.org/share/443949fc903e2df4934bb92b2474b70e) |
 | | Badge | **Data Analytics Professional Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/884fd356-c3dd-4c6b-81d6-79feaec673bb) |
 | <img src="SQL_icon.png" width="150"/> | 3. Certificate | SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/iframe/284f95144627) |
