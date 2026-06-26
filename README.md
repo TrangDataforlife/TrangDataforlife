@@ -26,7 +26,7 @@ I'm a final-year Management Information System (MIS), minoring E-commerce manage
 
 | TITLE | RECAPITULATION | PROJECT |
 | :--- | :--- | :--- |
-| <br>**Aomen shop** | a project about fashion business for male on e-commerce, specifically Shopify platform, which our team built in an e-commerce management course in university, including business canvas model, marketing plan, ... I was in charge of market research, assist with team in building a fictional shop business model, planning digital marketing plan, and operating fashion store on the Shopify platform, including product uploads.| <br>[Click here to Find out](BCBTN_QTNVTMDT.pdf) |
+| <br>**Aomen shop** | a project about fashion business for male on e-commerce, specifically Shopify platform, which our team built in an e-commerce management course in university, including business canvas model, marketing plan, ... I was in charge of market research, assist with team in building a fictional shop business model, planning digital marketing plan, and operating fashion store on the Shopify platform, including product uploads.| <br>[Click here to Find out](https://drive.google.com/file/d/1jhWhHeDzSyX1aMxwFkYmMHcP173bS1_r/view?usp=sharing) |
 
 ### 🥇 Hand-On Projects:
 
