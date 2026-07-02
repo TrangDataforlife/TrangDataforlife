@@ -5,18 +5,6 @@ My personal projects are attatched below, please take your time to look through.
 
 *Some file pdf first you maybe encounter "unable to render" after clicking, please reload page or download file pdf.
 
-<p align="center">
-  <a href="https://ux-portfolio-00e467.webflow.io/project/the-main">
-    <img src="UX.JPG" width="800" />
-    <br>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://ux-portfolio-00e467.webflow.io/project/the-main">
-    <img src="https://img.shields.io/badge/View%20My%20UI/UX_Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
 
 ### 📜 LANGUAGES & OFFICE INFORMATICS TESTIMONIALS:
 
@@ -44,6 +32,19 @@ My personal projects are attatched below, please take your time to look through.
 | <br>**BALSAMIQ** | <br>Weather website wireframe | A wireframe using balsamiq helped me "draw" quickly my idea which was about weather website beyond weather app in Python, lauching a web for everyone easily use | <br>[Click here to Find out](https://balsamiq.cloud/s8c8m8e/pwfutf3) |
 || Image Hands-on || **Balsamiq Image** <br> [View](https://github.com/TrangDataforlife/Balsamiq-workspace/blob/main/README.md) |
 | <br>**SCRUM** | <br>SCRUM Practices in Google Sheets | I have already applied SCRUM approach I learnt from Google Agile Essentials to simulate the Sprint workflow for a fictional company | <br>[Click here to Find out](https://docs.google.com/spreadsheets/d/18Bm-vE0J34J1SuZF5xliWIBnMAlyljvlv87KgwBsGAY/edit?usp=sharing) |
+
+<p align="center">
+  <a href="https://ux-portfolio-00e467.webflow.io/project/the-main">
+    <img src="UX.JPG" width="800" />
+    <br>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ux-portfolio-00e467.webflow.io/project/the-main">
+    <img src="https://img.shields.io/badge/View%20My%20UI/UX_Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ### 🥇 My Self-learning TESTIMONIAL:
 
