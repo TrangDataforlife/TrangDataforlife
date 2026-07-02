@@ -3,9 +3,11 @@ I'm a final-year Management Information System (MIS), minoring E-commerce manage
 
 **My projects** regarding:
 1. Data analysis in Customer shopping behaviour, Digital Ads, and HR; 
-2. UI/UX; design thinking; 
+2. Product design: UI/UX; design thinking and Draw.io, Balsamiq, Figma tools
 3. AI Product in Recruitment process;
-4. Basic understanding of RESTapi in HTTP protocol. 
+4. Basic understanding of RESTapi in HTTP protocol;
+5. E-commerce fictional shop - Accademic projecy;
+6. Scrum stimulation role
 
 **My relevant course certificate**: 
 TOEIC 4 Skills, Google AI essentials, Googld Digital marketing & E-commerce, Google Data Analyst, Quantitative Analysis, Google Project Management, Claude 101, PostmanAPI, SQL-intermediate hackerrank.
