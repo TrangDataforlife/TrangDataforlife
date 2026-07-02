@@ -2,12 +2,12 @@
 I'm a final-year Management Information System (MIS), minoring E-commerce management student at Ho Chi Minh city of Banking university, waiting for graduation in August, 2026, and pursuing Customer Analytics in MarTech. 
 
 **My projects** regarding:
-1. Data analysis in Customer shopping behaviour, Digital Ads, and HR; 
-2. Product design: UI/UX; design thinking and Draw.io, Balsamiq, Figma tools
+1. Data analysis in Customer shopping behaviour, Digital Ads, and HR with PostgreSQL, Python, PowerBI;
+2. Product design: UI/UX; design thinking with Draw.io, Balsamiq, Figma, and Google Stitch tools;
 3. AI Product in Recruitment process;
-4. Basic understanding of RESTapi in HTTP protocol;
-5. E-commerce fictional shop - Accademic projecy;
-6. Scrum stimulation role
+4. Basic understanding of RESTapi in HTTP protocol with Postman;
+5. E-commerce fictional shop which operated on Shopify - Academic project;
+6. Scrum stimulation role.
 
 **My relevant course certificate**: 
 TOEIC 4 Skills, Google AI essentials, Googld Digital marketing & E-commerce, Google Data Analyst, Quantitative Analysis, Google Project Management, Claude 101, PostmanAPI, SQL-intermediate hackerrank.
