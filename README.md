@@ -1,9 +1,9 @@
 ## About me!
 I'm a final-year Management Information System (MIS), minoring E-commerce management student at Ho Chi Minh city of Banking university, waiting for graduation in August, 2026, and pursuing Customer Analytics in MarTech. 
 
-My projects regarding Data analysis, UI/UX, design thinking, and also basic understanding of RESTapi in HTTP protocol. 
+**My projects** regarding Data analysis, UI/UX, design thinking, and also basic understanding of RESTapi in HTTP protocol. 
 
-My relevant course certificate: 
+**My relevant course certificate**: 
 TOEIC 4 Skills, Google AI essentials, Googld Digital marketing & E-commerce, Google Data Analyst, Quantitative Analysis, Google Project Management, Claude 101, PostmanAPI, SQL-intermediate hackerrank.
 
 My personal projects and certificates are attatched below, please take your time to look through. I hope we can work together if I have oppotunities.
