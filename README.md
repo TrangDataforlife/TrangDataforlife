@@ -1,7 +1,7 @@
 ## About me!
 I'm a final-year Management Information System (MIS), minoring E-commerce management student at Ho Chi Minh city of Banking university, waiting for graduation in August, 2026, and pursuing Data Analyst in MarTech. My projects regarding Data analysis, UI/UX, design thinking, and also basic understanding of RESTapi in HTTP protocol. 
 
-My portfolio is attatched below, please take your take to look through. I hope we can work together if I have oppotunities.
+My personal projects are attatched below, please take your take to look through. I hope we can work together if I have oppotunities.
 
 *Some file pdf first you maybe encounter "unable to render" after clicking, please reload page or download file pdf.
 
