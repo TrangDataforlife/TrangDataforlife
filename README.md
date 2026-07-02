@@ -9,7 +9,7 @@ I'm a final-year Management Information System (MIS), minor in E-commerce manage
 5. E-commerce fictional shop which operated on Shopify - Academic project;
 6. Scrum stimulation role.
 
-**My relevant course certificate**: 
+**My relevant course certificates**: 
 TOEIC 4 Skills, Google AI essentials, Googld Digital marketing & E-commerce, Google Data Analyst, Quantitative Analysis, Google Project Management, Claude 101, PostmanAPI, SQL-intermediate hackerrank.
 
 My personal projects and certificates are attatched below, please take your time to look through. I hope we can work together if I have oppotunities.
