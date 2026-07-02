@@ -3,7 +3,7 @@ I'm a final-year Management Information System (MIS), minoring E-commerce manage
 
 **My projects** regarding:
 1. Data analysis in Customer shopping behaviour, Digital Ads, and HR with PostgreSQL, Python, PowerBI;
-2. Product design: UI/UX; design thinking with Draw.io, Balsamiq, Figma, and Google Stitch tools;
+2. Product design: UI/UX; design thinking with Draw.io, Balsamiq, Figma, StartUML, and Google Stitch tools;
 3. AI Product in Recruitment process;
 4. Basic understanding of RESTapi in HTTP protocol with Postman;
 5. E-commerce fictional shop which operated on Shopify - Academic project;
