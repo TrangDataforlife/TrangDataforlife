@@ -1,5 +1,5 @@
 ## About me!
-I'm a final-year Management Information System (MIS), minor in E-commerce management student at Ho Chi Minh city of Banking university, waiting for graduation in August, 2026, and pursuing Customer Analytics in MarTech. 
+I'm a final-year Management Information System (MIS), minor in E-commerce management student at Ho Chi Minh city of Banking university, waiting for graduation in August, 2026, and pursuing Analytics Engineer long-term career. 
 
 **My projects** regarding:
 1. Data analysis in Customer shopping behaviour, Digital Ads, and HR with PostgreSQL, Python, PowerBI;
