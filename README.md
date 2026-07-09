@@ -31,13 +31,10 @@ My personal projects and certificates are attatched below, please take your time
 | **AI Essentials**| 3. Certificate | AI fundamentals - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
 | **Claude 101** | 4. Certificate | Claude 101 - Antrhopic Certificate <br> [View Certificate](certificate_claude.pdf) |
 | Data Analytics Professional Google| 5. Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](https://coursera.org/share/443949fc903e2df4934bb92b2474b70e) |
-| | Badge | **Data Analytics Professional Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/884fd356-c3dd-4c6b-81d6-79feaec673bb) |
 | Digital marketing & E-commerce Google | 6. Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://coursera.org/share/1a83ea1c580f5a103bcbda9225415415) |
-| | Badge | **Digital Marketing & E-commerce Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/90fe982b-53c4-4b09-b037-dd7d55990649) |
 | SQL | 7. Certificate | SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/iframe/284f95144627) |
 | **Quantitative Analysis** | 8. Certificate | Quantitative Techniques Certificate - Columbia+ <br> [View Certificate](https://images.credential.net/embed/47yhsf7p_1781027352398.png) |
 | Agile methodology | 9. Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/93RTQLJUZ9PA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) |
-|| Badge | **Agile Badge** <br> [View Badge](https://www.credly.com/badges/be57c282-708e-4c6e-8d77-fab43fcad02d) |
 | Postman | 10. Certificate | Get the most out of Postman id: 69e60ed84a8ef58e25531b65 <br> [View Certificate](Postman_cert.JPG) |
 | **Project Management** | 11. Certificate | Google Project Management Professional Certificate <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/9EH20KD7OCLC) |
 
