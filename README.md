@@ -29,7 +29,7 @@ My personal projects and certificates are attatched below, please take your time
 | **Data Build Tool (dbt)** | 1. Certificate | dbt Fundamentals - dbt labs Certificate <br> [View Certificate](https://credentials.getdbt.com/b555353d-be5e-4ead-a644-63345152fb3a#acc.4cK3QRie) |
 | **Python** | 2. Certificate | Crash Course On Python - Coursera Certificate <br> [View Certificate](https://coursera.org/share/402da06fb2f9a4f2e9b19f6d9137d9d1) |
 | **AI Essentials**| 3. Certificate | AI fundamentals - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
-| **Claude 101** | 4. Certificate | Claude 101 - Antrhopic Certificate <br> [View Certificate](certificate_claude.pdf) |
+| **Claude 101** | 4. Certificate | Claude 101 - Anthropic Certificate <br> [View Certificate](certificate_claude.pdf) |
 | Data Analytics Professional Google| 5. Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](https://coursera.org/share/443949fc903e2df4934bb92b2474b70e) |
 | Digital marketing & E-commerce Google | 6. Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://coursera.org/share/1a83ea1c580f5a103bcbda9225415415) |
 | SQL | 7. Certificate | SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/iframe/284f95144627) |
