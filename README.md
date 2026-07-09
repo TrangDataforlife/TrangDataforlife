@@ -61,6 +61,7 @@ My personal projects and certificates are attatched below, please take your time
 
 | IT DA/BA TOOLKITS | GENRE | TESTIMONIAL |
 | :---: | :---: | :--- |
+| **Data Build Tool (dbt)** | Certificate | dbt Fundamentals - dbt labs Certificate <br> [View Certificate](https://credentials.getdbt.com/b555353d-be5e-4ead-a644-63345152fb3a#acc.4cK3QRie) |
 | **Python** | Certificate | Crash Course On Python - Coursera Certificate <br> [View Certificate](https://coursera.org/share/402da06fb2f9a4f2e9b19f6d9137d9d1) |
 | <img src="AI_badge.png" width="150"/> | 1. Certificate | Get the most out of AI <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
 | | Badge | **AI Badge** <br> [View Badge](https://www.credly.com/badges/6dd4cd42-6162-4f1d-9372-302d6999504d) |
