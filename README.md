@@ -16,12 +16,30 @@ My personal projects and certificates are attatched below, please take your time
 
 *Some file pdf first you maybe encounter "unable to render" after clicking, please reload page or download file pdf.
 
-
 ### 📜 LANGUAGES & OFFICE INFORMATICS TESTIMONIALS:
 
 | LANGUAGES | OFFICE INFORMATICS |
 | :--- | :--- |
 | **TOEIC** <br> [825/990 L+R and 320/400 S+W](https://drive.google.com/file/d/1sIk_gmI7wYqdhyTSFz_RJw5nsV6aeu_Q/view?usp=sharing)| **MOS 2016 - Specialist (Excel, PowerPoint, Word)** <br><br> • [Microsoft Word Specialist 2016](https://drive.google.com/file/d/1PualKH2xM1FnVP9ag2BNruroeMpwxGT9/view?usp=drive_link) <br> • [Microsoft Excel Specialist 2016](https://drive.google.com/file/d/1omrOWr1FdWvWzT6c4J6iOQybP2-xwVgr/view?usp=drive_link) <br> • [Microsoft PowerPoint Specialist 2016](https://drive.google.com/file/d/1WR13LBj6Vm7v0I8HHej5seQdta-4u27b/view?usp=drive_link) |
+
+### 🥇 My Self-learning TESTIMONIAL:
+
+| IT DA/BA TOOLKITS | GENRE | TESTIMONIAL |
+| :---: | :---: | :--- |
+| **Data Build Tool (dbt)** | Certificate | dbt Fundamentals - dbt labs Certificate <br> [View Certificate](https://credentials.getdbt.com/b555353d-be5e-4ead-a644-63345152fb3a#acc.4cK3QRie) |
+| **Python** | Certificate | Crash Course On Python - Coursera Certificate <br> [View Certificate](https://coursera.org/share/402da06fb2f9a4f2e9b19f6d9137d9d1) |
+| **AI Essentials**| 1. Certificate | AI fundamentals - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
+| **Claude 101** | Certificate | Claude 101 - Antrhopic Certificate <br> [View Certificate](certificate_claude.pdf) |
+| <img src="DA_badge.png" width="150"/> | 2. Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](https://coursera.org/share/443949fc903e2df4934bb92b2474b70e) |
+| | Badge | **Data Analytics Professional Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/884fd356-c3dd-4c6b-81d6-79feaec673bb) |
+| <img src="digital_badge.png" width="150"/> | 3. Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://coursera.org/share/1a83ea1c580f5a103bcbda9225415415) |
+| | Badge | **Digital Marketing & E-commerce Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/90fe982b-53c4-4b09-b037-dd7d55990649) |
+| <img src="SQL_icon.png" width="150"/> | 4. Certificate | SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/iframe/284f95144627) |
+| **Quantitative Analysis** | 5. Certificate | Quantitative Techniques Certificate - Columbia+ <br> [View Certificate](https://images.credential.net/embed/47yhsf7p_1781027352398.png) |
+| <img src="LOGO_Agile.png" width="150"/> | 6. Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/93RTQLJUZ9PA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) |
+|| Badge | **Agile Badge** <br> [View Badge](https://www.credly.com/badges/be57c282-708e-4c6e-8d77-fab43fcad02d) |
+| <img src="Postman_Logo.JPG" width="150"/> | 7. Certificate | Get the most out of Postman id: 69e60ed84a8ef58e25531b65 <br> [View Certificate](Postman_cert.JPG) |
+| **Project Management** | 8. Certificate | Google Project Management Professional Certificate <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/9EH20KD7OCLC) |
 
 ### 🥇 Business Project:
 
@@ -56,26 +74,6 @@ My personal projects and certificates are attatched below, please take your time
     <img src="https://img.shields.io/badge/View%20My%20UI/UX_Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
-
-### 🥇 My Self-learning TESTIMONIAL:
-
-| IT DA/BA TOOLKITS | GENRE | TESTIMONIAL |
-| :---: | :---: | :--- |
-| **Data Build Tool (dbt)** | Certificate | dbt Fundamentals - dbt labs Certificate <br> [View Certificate](https://credentials.getdbt.com/b555353d-be5e-4ead-a644-63345152fb3a#acc.4cK3QRie) |
-| **Python** | Certificate | Crash Course On Python - Coursera Certificate <br> [View Certificate](https://coursera.org/share/402da06fb2f9a4f2e9b19f6d9137d9d1) |
-| <img src="AI_badge.png" width="150"/> | 1. Certificate | Get the most out of AI <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
-| | Badge | **AI Badge** <br> [View Badge](https://www.credly.com/badges/6dd4cd42-6162-4f1d-9372-302d6999504d) |
-| **Claude 101** | Certificate | Claude 101 - Antrhopic Certificate <br> [View Certificate](certificate_claude.pdf) |
-| <img src="DA_badge.png" width="150"/> | 2. Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](https://coursera.org/share/443949fc903e2df4934bb92b2474b70e) |
-| | Badge | **Data Analytics Professional Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/884fd356-c3dd-4c6b-81d6-79feaec673bb) |
-| <img src="digital_badge.png" width="150"/> | 3. Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://coursera.org/share/1a83ea1c580f5a103bcbda9225415415) |
-| | Badge | **Digital Marketing & E-commerce Badge** <br> [View Badge](https://www.credly.com/earner/earned/badge/90fe982b-53c4-4b09-b037-dd7d55990649) |
-| <img src="SQL_icon.png" width="150"/> | 4. Certificate | SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/iframe/284f95144627) |
-| **Quantitative Analysis** | 5. Certificate | Quantitative Techniques Certificate - Columbia+ <br> [View Certificate](https://images.credential.net/embed/47yhsf7p_1781027352398.png) |
-| <img src="LOGO_Agile.png" width="150"/> | 6. Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/93RTQLJUZ9PA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) |
-|| Badge | **Agile Badge** <br> [View Badge](https://www.credly.com/badges/be57c282-708e-4c6e-8d77-fab43fcad02d) |
-| <img src="Postman_Logo.JPG" width="150"/> | 7. Certificate | Get the most out of Postman id: 69e60ed84a8ef58e25531b65 <br> [View Certificate](Postman_cert.JPG) |
-| **Project Management** | 8. Certificate | Google Project Management Professional Certificate <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/9EH20KD7OCLC) |
 
 ## 🔗 Let's Connect
 * 🌐 **Website UX/UI - Product Owner Portfolio:** [Visit My Website](https://ux-portfolio-00e467.webflow.io/)
