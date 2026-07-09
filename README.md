@@ -48,7 +48,7 @@ My personal projects and certificates are attatched below, please take your time
 
 | TOOL | TITLE | RECAPITULATION | PROJECT |
 | :--- | :--- | :--- | :--- |
-| <br>**dbt project** |  | this project I built in dbt fundamentals course. Credit: dbt labs | <br>[Click here to Find out]() |
+| <br>**dbt project** |  | this project I built in dbt fundamentals course. Credit: dbt labs | <br>[Click here to Find out](https://github.com/TrangDataforlife/dbt_fundamentals) |
 | <br>**Power BI, SQL, Python** | <br>Customer shopping behaviour analysis | this project, showcasing my foundation data analysis skills in PostgreSQL, Python, Power BI, and findings presentation.| <br>[Click here to Find out](https://github.com/TrangDataforlife/customer_trends_data_analysis_PostgreSQL_Python_PowerBI/tree/main) |
 | |<br>HR analysis dashboard | this project, showcasing my foundation data analysis skills in Power BI, and findings presentation. | <br>[Click here to Find out](https://github.com/TrangDataforlife/HR_Dashboard) |
 | | Digital Marketing Performance Analysis | Here I used to archive my data analysis projects with Notion| <br> [My Data Analyst Portfolio](https://app.notion.com/p/Data-Analyst-Portfolio-practice-tool-21d8ba8ff45c80f1b741c2dae08d7a9a)|
