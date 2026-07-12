@@ -1,5 +1,8 @@
 ## About me!
-I'm a final-year Management Information System (MIS), minor in E-commerce management student at Ho Chi Minh city of Banking university, waiting for graduation in August, 2026, and pursuing Analytics Engineer long-term career. 
+I'm a final-year Management Information System (MIS), minor in E-commerce management student at Ho Chi Minh city of Banking university.
+Relevant coursework: E-commerce, SEO, Business Analyst, Econometrics, Statistics, Analyze & Design Information System, Data Visualization, Database Systems, C, C++, Java, C# programming.
+
+## I'm waiting for graduation in August, 2026, and pursuing Analytics Engineer long-term career. 
 
 **My projects** regarding:
 1. Data Build Tool (dbt) hands-on projects
