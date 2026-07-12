@@ -36,10 +36,7 @@ My personal projects and certificates are attatched below, please take your time
 | SQL | 7. Certificate | SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/iframe/284f95144627) |
 | **Quantitative Analysis** | 8. Certificate | Quantitative Techniques Certificate - Columbia+ <br> [View Certificate](https://images.credential.net/embed/47yhsf7p_1781027352398.png) |
 | Agile methodology | 9. Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/93RTQLJUZ9PA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) |
-| Agile Project Management with Jira Cloud | 10. Certificate on Linkedln |  
-| | | <br> [View Certificate Projects, Boards, Issues](https://www.linkedin.com/learning/certificates/8b15db94aeaf3e5e4c36e749f4920ad147c90d64b32e697738e2a8de52e719b2) |
-| | | <br> [View Certificate Lean & Agile Processes](https://www.linkedin.com/learning/certificates/08a0c1a7b5ebc0212074997ae70ff87c8685882b0d1537fb486a7e6dea5e733c) |
-| | | <br> [View Certificate Advanced](https://www.linkedin.com/learning/certificates/f2cb63d2b93b04ea2fd472b2f9bad03edac11636767fd80aa0a69da188f3e128) |
+| Agile Project Management with Jira Cloud | 10. Certificate on Linkedln | <br> [View Certificate Projects, Boards, Issues](https://www.linkedin.com/learning/certificates/8b15db94aeaf3e5e4c36e749f4920ad147c90d64b32e697738e2a8de52e719b2) |
 | Postman | 11. Certificate | Get the most out of Postman id: 69e60ed84a8ef58e25531b65 <br> [View Certificate](Postman_cert.JPG) |
 | **Project Management** | 12. Certificate | Google Project Management Professional Certificate <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/9EH20KD7OCLC) |
 
