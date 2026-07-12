@@ -5,17 +5,18 @@ Relevant coursework: E-commerce, SEO, Business Analyst, Econometrics, Statistics
 
 ## I'm waiting for graduation in August, 2026, and pursuing Analytics Engineer long-term career. 
 
-**My projects** regarding:
-1. Data Build Tool (dbt) hands-on projects
-2. Data analysis in Customer shopping behaviour, Digital Ads, and HR with PostgreSQL, Python, PowerBI;
-3. Product design: UI/UX; design thinking with Draw.io, Balsamiq, Figma, StartUML, and Google Stitch tools;
-4. AI Product in Recruitment process;
-5. Basic understanding of RESTapi in HTTP protocol with Postman;
-6. E-commerce fictional shop which operated on Shopify - Academic project;
-7. Scrum stimulation role.
+**My personal projects** regarding:
+1. Data Build Tool (dbt) hands-on projects;
+2. Extract comment list on youtube via Youtube v3 api;
+3. Data analysis | Analytical thinking in Customer shopping behaviour, Digital Ads, and HR with PostgreSQL, Python, PowerBI;
+4. Product design: UI/UX; design thinking with Draw.io, Balsamiq, Figma, StartUML, and Google Stitch tools;
+5. Product owner role : Sketching AI Product applied in Recruitment process;
+6. api Weather : Basic understanding of RESTapi in HTTP protocol with Postman;
+7. E-commerce fictional shop which operated on Shopify - Academic project;
+8. Scrum stimulation role.
 
 **My relevant course certificates**: 
-TOEIC 4 Skills, Google AI essentials, Googld Digital marketing & E-commerce, Google Data Analyst, Quantitative Analysis, Google Project Management, Claude 101, PostmanAPI, SQL-intermediate hackerrank.
+TOEIC 4 Skills, dbt fundamentals, Crash course on Python, Jira Cloud Work Management, SQL-intermediate hackerrank, Google AI essentials, Googld Digital marketing & E-commerce, Google Data Analyst, Quantitative Analysis, Google Project Management, Claude 101, PostmanAPI.
 
 My personal projects and certificates are attatched below, please take your time to look through. I hope we can work together if I have oppotunities.
 
@@ -55,7 +56,7 @@ My personal projects and certificates are attatched below, please take your time
 | TOOL | TITLE | RECAPITULATION | PROJECT |
 | :--- | :--- | :--- | :--- |
 | <br>**dbt + Snowflake** |  | this project I built in dbt fundamentals course. Learning about refactoring models into staging & marts, modularity, refactoring SQL with Jinja & macros, Singular & Generic testing, Documentation. Credit: dbt labs | <br>[Click here to Find out](https://github.com/TrangDataforlife/dbt_fundamentals) |
-| <br>**Power BI, SQL, Python** | <br>Customer shopping behaviour analysis | this project, showcasing my foundation data analysis skills in PostgreSQL, Python, Power BI, and findings presentation.| <br>[Click here to Find out](https://github.com/TrangDataforlife/customer_trends_data_analysis_PostgreSQL_Python_PowerBI/tree/main) |
+| <br>**Power BI, SQL, Python** | <br>Customer shopping behaviour analysis | this project, showcasing my foundation data analysis skills and ETL pipeline process with PostgreSQL, Python, Power BI, and in delivering findings presentation.| <br>[Click here to Find out](https://github.com/TrangDataforlife/customer_trends_data_analysis_PostgreSQL_Python_PowerBI/tree/main) |
 | |<br>HR analysis dashboard | this project, showcasing my foundation data analysis skills in Power BI, and findings presentation. | <br>[Click here to Find out](https://github.com/TrangDataforlife/HR_Dashboard) |
 | | Digital Marketing Performance Analysis | Here I used to archive my data analysis projects with Notion| <br> [My Data Analyst Portfolio](https://app.notion.com/p/Data-Analyst-Portfolio-practice-tool-21d8ba8ff45c80f1b741c2dae08d7a9a)|
 | <br>**Google Stitch, and Draw.io** | <br>[AI Recruiment Suit] Entry test for Product owner at Edtronaut. Using Google Stitch & Draw.io |AI Suite được thiết kế nhằm tối ưu hóa quy trình tuyển dụng thông qua việc tối ưu hóa lợi ích trên hành trình ứng tuyển và hỗ trợ đánh giá năng lực ứng viên với các bài mô phỏng thực chiến. Bằng cách cung cấp báo cáo chi tiết về năng lực ứng viên với dữ liệu định lượng,giải pháp giúp nhà tuyển dụng xử lý hàng trăm CV mỗi tuần một cách dễ dàng và lựa chọn được nhân tài phù hợp nhất. Đo lường hiệu quả sản phẩm qua việc rút ngắn thời gian lọc hồ sơ, thời gian tuyển dụng (Time-to-hire), hiệu suất làm việc và mức độ gắn kết của nhân viên sau khi nhận việc.| <br>[Click here to Find out](https://drive.google.com/file/d/1vzIVHC3XRhbQ7GMbFOMao1jgCOVIFU89/view?usp=sharing) |
