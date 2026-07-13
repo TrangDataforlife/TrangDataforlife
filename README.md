@@ -1,5 +1,5 @@
 ## About me!
-I'm a final-year Management Information System (MIS), minor in E-commerce management student at Ho Chi Minh city of Banking university.
+I'm a final-year Management Information System (MIS), minor in E-commerce management student at Banking University of Ho Chi Minh City.
 
 Relevant coursework: E-commerce, SEO, Business Analyst, Econometrics, Statistics, Analyze & Design Information System, Data Visualization, Database Systems, C, C++, Java, C# programming.
 
