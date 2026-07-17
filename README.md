@@ -33,8 +33,8 @@ My personal projects and certificates are attatched below, please take your time
 | IT DA/BA TOOLKITS | GENRE | TESTIMONIAL |
 | :---: | :---: | :--- |
 | **Data Build Tool (dbt)** | 1. Certificate | dbt Fundamentals - dbt labs Certificate <br> [View Certificate](https://credentials.getdbt.com/b555353d-be5e-4ead-a644-63345152fb3a#acc.4cK3QRie) |
-|  | Porject-based learning. Credit: Jonathan Neo, a Data Engineer at Canva & Data Engineer Camp | Kimball dimensional model concepts <br> [View Certificate](https://github.com/TrangDataforlife/dbt-dimensional-modelling) |
-|  | Project-based learning. Credit: Darshil Parmar youtuber | **Focus on learning about incremental model, Slowly Changing Dimensions (SCD type 1, 2), Snapshot in dbt, surrogate key in dbt_utils** Getting MovieLens 20 millions dataset, which is stored in S3 Amazon, then copy into Snowflake data warehouse, and finally connect with dbt to work on this data warehouse. <br> [View Certificate]() | 
+|  | Porject-based learning. Credit: Jonathan Neo, a Data Engineer at Canva & Data Engineer Camp | Kimball dimensional model concepts <br> [View Project](https://github.com/TrangDataforlife/dbt-dimensional-modelling) |
+|  | Project-based learning. Credit: Darshil Parmar youtuber | **Focus on learning about incremental model, Slowly Changing Dimensions (SCD type 1, 2), Snapshot in dbt, surrogate key in dbt_utils** Getting MovieLens 20 millions dataset, which is stored in S3 Amazon, then copy into Snowflake data warehouse, and finally connect with dbt to work on this data warehouse. <br> [View Project](https://github.com/TrangDataforlife/netflix_S3_Snowflake_dbt) | 
 | **Python** | 2. Certificate | Crash Course On Python - Coursera Certificate <br> [View Certificate](https://coursera.org/share/402da06fb2f9a4f2e9b19f6d9137d9d1) |
 | **AI Essentials**| 3. Certificate | AI fundamentals - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
 | **Claude 101** | 4. Certificate | Claude 101 - Anthropic Certificate <br> [View Certificate](certificate_claude.pdf) |
