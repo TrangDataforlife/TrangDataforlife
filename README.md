@@ -3,8 +3,6 @@ I'm a final-year Management Information System (MIS), minor in E-commerce manage
 
 Relevant coursework: E-commerce, SEO, Business Analyst, Econometrics, Statistics, Analyze & Design Information System, Data Visualization, Database Systems, C, C++, Java, C# programming.
 
-## I'm waiting for graduation in August, 2026, and pursuing Analytics Engineer long-term career. 
-
 **My personal projects** regarding:
 1. Data Build Tool (dbt) hands-on projects;
 2. Extract comment list on youtube via Youtube v3 api;
