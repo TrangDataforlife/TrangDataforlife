@@ -1,7 +1,5 @@
-I'm a fresher Management Information System (MIS), minor in E-commerce management student at Banking University of Ho Chi Minh City.
-
 <div align="center">
-  <h1>Phuong Trang</h1>
+  <h1>Phuong Trang (Fresher Management Information System)</h1>
   <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY | ANALYTICS ENGINEER</h3>
   <p>
     🚀 Building data pipelines from raw data to clean, decision-ready insights<br/>
@@ -25,8 +23,6 @@ I'm a fresher Management Information System (MIS), minor in E-commerce managemen
 </p>
 
 <hr/>
-
-<h3>🧭 ABOUT ME</h3>
 
 Relevant coursework: E-commerce, SEO, Business Analyst, Econometrics, Statistics, Analyze & Design Information System, Data Visualization, Database Systems, C, C++, Java, C# programming.
 
