@@ -37,75 +37,75 @@ My personal projects and certificates are attatched below, please take your time
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
-<table width="20%">
+<table width="100%">
   <tr>
     <td width="20%">📥 <b>Ingest & Collect</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-      <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+      <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>🛢️ <b>Store & Manage</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>🔄 <b>Transform</b></td>
     <td>
-      <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+      <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>🛡️ <b>Data Quality</b></td>
     <td>
-      <img src="https://img.shields.io/badge/dbt_test-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+      <img src="https://img.shields.io/badge/dbt_test-FF694B?style=flat-square&logo=dbt&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>🏷️ <b>Governance & Catalog</b></td>
     <td>
-      <img src="https://img.shields.io/badge/dbt_docs-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+      <img src="https://img.shields.io/badge/dbt_docs-FF694B?style=flat-square&logo=dbt&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>📊 <b>BI & Analytics</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-      <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+      <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>🚀 <b>CI/CD & GitOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>📋 <b>Project & Knowledge</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Balsamiq-CC3333?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/StarUML-3F51B5?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Balsamiq-CC3333?style=flat-square" />
+      <img src="https://img.shields.io/badge/StarUML-3F51B5?style=flat-square" />
+      <img src="https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>💻 <b>IDE & Data Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
     </td>
   </tr>
 </table>
