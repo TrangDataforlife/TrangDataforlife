@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Data+Operations+%7C+Data+Quality+%7C+Analytics+Engineer;Turning+Raw+Ecommerce+Data+Into+Clear+Decisions;Python+%7C+SQL+%7C+dbt+%7C+Power+BI+%7C+BigQuery+%7C+Modern+Data+Stack;Bridging+Operations+Data+and+Business+Insights"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Data+Operations+%7C+Data+Quality+%7C+Analytics+Engineer;Turning+Raw+Ecommerce+Data+Into+Clear+Decisions;Python+%7C+SQL+%7C+dbt+%7C+Power+BI+%7C+BigQuery+%7C+Snowflake+%7C+Modern+Data+Stack;Bridging+Operations+Data+and+Business+Insights"/>
 </p>
 
 <p align="center">
