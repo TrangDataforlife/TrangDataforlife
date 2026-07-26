@@ -33,19 +33,19 @@ My personal projects and certificates are attatched below, please take your time
 | **Data Build Tool (dbt)** | 1. Certificate and Project-based learning in hands-on section. | dbt Fundamentals - dbt labs Certificate, this project I built in dbt fundamentals course, using available Jaffle_shop dataset in Snowflake. Learning about refactoring models into staging & marts, modularity, refactoring SQL with Jinja & macros, Singular & Generic testing, Documentation. Credit: dbt labs. <br> [View Certificate](https://credentials.getdbt.com/b555353d-be5e-4ead-a644-63345152fb3a#acc.4cK3QRie) |
 |  | Project-based learning. Credit: Jonathan Neo, a Data Engineer at Canva & Data Engineer Camp | Kimball dimensional model concepts <br> [View Project](https://github.com/TrangDataforlife/dbt-dimensional-modelling) |
 |  | Project-based learning. Credit: Darshil Parmar youtuber | **Focus on learning about incremental model, Slowly Changing Dimensions (SCD type 1, 2), Snapshot in dbt, surrogate key in dbt_utils** Getting MovieLens 20 millions dataset, which is stored in S3 Amazon, then copy into Snowflake data warehouse, and finally connect with dbt to work on this data warehouse. <br> [View Project](https://github.com/TrangDataforlife/netflix_S3_Snowflake_dbt) | 
-| **Python** | 2. Certificate | Crash Course On Python - Coursera Certificate <br> [View Certificate](https://coursera.org/share/402da06fb2f9a4f2e9b19f6d9137d9d1) |
-| **AI Essentials**| 3. Certificate | AI fundamentals - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
-| **Claude 101** | 4. Certificate | Claude 101 - Anthropic Certificate <br> [View Certificate](certificate_claude.pdf) |
-| Data Analytics Professional Google| 5. Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](https://coursera.org/share/443949fc903e2df4934bb92b2474b70e) |
-| Digital marketing & E-commerce Google | 6. Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://coursera.org/share/1a83ea1c580f5a103bcbda9225415415) |
-| SQL | 7. Certificate | SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/iframe/284f95144627) |
+| SQL | 2. Certificate | SQL - Intermediate Hackerrank <br> [View Certificate](https://www.hackerrank.com/certificates/iframe/284f95144627) |
 | | Khóa học dành cho người đã biết SELECT, WHERE, GROUP BY. Bạn sẽ học cách kết hợp dữ liệu từ nhiều bảng bằng JOIN, viết Subquery lồng nhau, phân loại dữ liệu với CASE WHEN, và sử dụng các hàm xử lý chuỗi và ngày tháng. | SQL - Intermediate Xóm Data <br> [View Certificate](https://xomdata.com/certificates/XA-JLYXJF) |
 | | Khóa học nâng cao dành cho người đã thành thạo JOIN, Subquery, CASE WHEN. Bạn sẽ học Window Functions (OVER, PARTITION BY, ROW_NUMBER, RANK, LAG, LEAD), CTE (Common Table Expression), Set Operations (UNION, INTERSECT, EXCEPT), và áp dụng vào các bài toán phân tích thực tế như RFM, Gap Analysis, Funnel. | SQL - Advanced Xóm Data <br> [View Certificate](https://xomdata.com/certificates/XA-FQY7Q4) |
-| **Quantitative Analysis** | 8. Certificate | Quantitative Techniques Certificate - Columbia+ <br> [View Certificate](https://images.credential.net/embed/47yhsf7p_1781027352398.png) |
-| Agile methodology | 9. Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/93RTQLJUZ9PA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) |
-| Agile Project Management with Jira Cloud | 10. Certificate on Linkedln | <br> [View Certificate Projects, Boards, Issues](https://www.linkedin.com/learning/certificates/8b15db94aeaf3e5e4c36e749f4920ad147c90d64b32e697738e2a8de52e719b2) |
-| Postman | 11. Certificate | Get the most out of Postman id: 69e60ed84a8ef58e25531b65 <br> [View Certificate](Postman_cert.JPG) |
-| **Project Management** | 12. Certificate | Google Project Management Professional Certificate <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/9EH20KD7OCLC) |
+| **Python** | 3. Certificate | Crash Course On Python - Coursera Certificate <br> [View Certificate](https://coursera.org/share/402da06fb2f9a4f2e9b19f6d9137d9d1) |
+| **AI Essentials**| 4. Certificate | AI fundamentals - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP) |
+| **Claude 101** | 5. Certificate | Claude 101 - Anthropic Certificate <br> [View Certificate](certificate_claude.pdf) |
+| Data Analytics Professional Google| 5. Certificate | Get the most out of Google Data Analytics Profession <br> [View Certificate](https://coursera.org/share/443949fc903e2df4934bb92b2474b70e) |
+| Digital marketing & E-commerce Google | 6. Certificate | Get the most out of Digital Marketing Profession <br> [View Certificate](https://coursera.org/share/1a83ea1c580f5a103bcbda9225415415) |
+| **Quantitative Analysis** | 7. Certificate | Quantitative Techniques Certificate - Columbia+ <br> [View Certificate](https://images.credential.net/embed/47yhsf7p_1781027352398.png) |
+| Agile methodology | 8. Certificate | Get the most out of Google Agile Essentials <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/93RTQLJUZ9PA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) |
+| Agile Project Management with Jira Cloud | 9. Certificate on Linkedln | <br> [View Certificate Projects, Boards, Issues](https://www.linkedin.com/learning/certificates/8b15db94aeaf3e5e4c36e749f4920ad147c90d64b32e697738e2a8de52e719b2) |
+| Postman | 10. Certificate | Get the most out of Postman id: 69e60ed84a8ef58e25531b65 <br> [View Certificate](Postman_cert.JPG) |
+| **Project Management** | 11. Certificate | Google Project Management Professional Certificate <br> [View Certificate](https://www.coursera.org/account/accomplishments/specialization/9EH20KD7OCLC) |
 
 ### 🥇 Business Project:
 
