@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Phuong Trang (Fresher Management Information System)</h1>
+  <h1>Phuong Trang</h1>
+  <h2>(Fresher Management Information System)</h2>
   <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY | ANALYTICS ENGINEER</h3>
   <p>
     🚀 Building data pipelines from raw data to clean, decision-ready insights<br/>
