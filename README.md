@@ -157,7 +157,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/✅_Certificate-16A34A?style=flat-square" />&nbsp;chứng chỉ chính thức, có bằng cấp/link xác thực &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" />&nbsp;dự án tự thực hành, không có bằng cấp
+  <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" />&nbsp; based-learning project
 </p>
 
 ---
@@ -285,7 +285,7 @@
 
 ---
 
-## 🛠️ Projects (Dự án tự thực hành)
+## 🛠️ Projects (Based-learning project)
 
 ### 🛍️ Business Project
 
