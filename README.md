@@ -122,54 +122,127 @@ My personal projects and certificates are attatched below, please take your time
 </table>
 
 ### 🥇 My Self-learning TESTIMONIAL:
-<h3 align="center">🎓 My Relevant Course Certificates</h3>
+
+<h3 align="center">🏆 Certificates & Project-based Learning</h3>
+
+## 📊 Data Build Tool (dbt)
 
 <table width="100%">
   <tr>
-    <td width="20%">🗣️ <b>Language & Soft Skills</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TOEIC_4_Skills-CC2927?style=for-the-badge" />
+    <td width="33%" valign="top">
+      <b>dbt Fundamentals</b><br/>
+      <sub>🏷️ dbt Labs — Certificate</sub><br/><br/>
+      Dự án dùng dataset <code>Jaffle_shop</code> trên Snowflake. Học refactor model thành staging & marts, modularity, Jinja & macros, singular/generic testing, documentation.<br/><br/>
+      <a href="https://credentials.getdbt.com/b555353d-be5e-4ead-a644-63345152fb3a#acc.4cK3QRie">🔗 View Certificate</a>
+    </td>
+    <td width="33%" valign="top">
+      <b>Kimball Dimensional Model</b><br/>
+      <sub>🏷️ Project-based — Credit: Jonathan Neo (Data Engineer @ Canva, Data Engineer Camp)</sub><br/><br/>
+      Thực hành khái niệm Kimball dimensional modelling.<br/><br/>
+      <a href="https://github.com/TrangDataforlife/dbt-dimensional-modelling">🔗 View Project</a>
+    </td>
+    <td width="33%" valign="top">
+      <b>Netflix S3 → Snowflake → dbt</b><br/>
+      <sub>🏷️ Project-based — Credit: Darshil Parmar</sub><br/><br/>
+      Incremental model, SCD type 1/2, Snapshot, surrogate key (<code>dbt_utils</code>). Dataset MovieLens 20M từ S3 → Snowflake → dbt.<br/><br/>
+      <a href="https://github.com/TrangDataforlife/netflix_S3_Snowflake_dbt">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
+
+## 🗄️ SQL
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <b>SQL — Intermediate</b><br/>
+      <sub>🏷️ HackerRank — Certificate</sub><br/><br/>
+      <a href="https://www.hackerrank.com/certificates/iframe/284f95144627">🔗 View Certificate</a>
+    </td>
+    <td width="33%" valign="top">
+      <b>SQL — Intermediate</b><br/>
+      <sub>🏷️ Xóm Data — Certificate</sub><br/><br/>
+      JOIN nhiều bảng, Subquery lồng nhau, CASE WHEN, hàm xử lý chuỗi/ngày tháng.<br/><br/>
+      <a href="https://xomdata.com/certificates/XA-JLYXJF">🔗 View Certificate</a>
+    </td>
+    <td width="33%" valign="top">
+      <b>SQL — Advanced</b><br/>
+      <sub>🏷️ Xóm Data — Certificate</sub><br/><br/>
+      Window Functions (OVER, PARTITION BY, ROW_NUMBER, RANK, LAG, LEAD), CTE, Set Operations, ứng dụng RFM/Gap Analysis/Funnel.<br/><br/>
+      <a href="https://xomdata.com/certificates/XA-FQY7Q4">🔗 View Certificate</a>
+    </td>
+  </tr>
+</table>
+
+## 🐍 Python, AI & Modern Tools
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <b>Crash Course on Python</b><br/>
+      <sub>🏷️ Coursera — Certificate</sub><br/><br/>
+      <a href="https://coursera.org/share/402da06fb2f9a4f2e9b19f6d9137d9d1">🔗 View Certificate</a>
+    </td>
+    <td width="33%" valign="top">
+      <b>AI Essentials</b><br/>
+      <sub>🏷️ Coursera — Certificate</sub><br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP">🔗 View Certificate</a>
+    </td>
+    <td width="33%" valign="top">
+      <b>Claude 101</b><br/>
+      <sub>🏷️ Anthropic — Certificate</sub><br/><br/>
+      <a href="certificate_claude.pdf">🔗 View Certificate</a>
     </td>
   </tr>
   <tr>
-    <td>📊 <b>Data Analytics</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Data_Analyst-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Quantitative_Analysis-2563EB?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/SQL_Intermediate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <td width="33%" valign="top">
+      <b>Postman API</b><br/>
+      <sub>🏷️ Postman — Certificate</sub><br/><br/>
+      <a href="Postman_cert.JPG">🔗 View Certificate</a>
     </td>
   </tr>
+</table>
+
+## 📈 Data Analytics & Marketing
+
+<table width="100%">
   <tr>
-    <td>🔄 <b>Data Engineering</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/dbt_Fundamentals-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-      <img src="https://img.shields.io/badge/Crash_Course_on_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <td width="33%" valign="top">
+      <b>Data Analytics Professional</b><br/>
+      <sub>🏷️ Google — Certificate</sub><br/><br/>
+      <a href="https://coursera.org/share/443949fc903e2df4934bb92b2474b70e">🔗 View Certificate</a>
+    </td>
+    <td width="33%" valign="top">
+      <b>Digital Marketing & E-commerce</b><br/>
+      <sub>🏷️ Google — Certificate</sub><br/><br/>
+      <a href="https://coursera.org/share/1a83ea1c580f5a103bcbda9225415415">🔗 View Certificate</a>
+    </td>
+    <td width="33%" valign="top">
+      <b>Quantitative Techniques</b><br/>
+      <sub>🏷️ Columbia+ — Certificate</sub><br/><br/>
+      <a href="https://images.credential.net/embed/47yhsf7p_1781027352398.png">🔗 View Certificate</a>
     </td>
   </tr>
+</table>
+
+## 📋 Project Management & Agile
+
+<table width="100%">
   <tr>
-    <td>🤖 <b>AI & Modern Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude_101-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+    <td width="33%" valign="top">
+      <b>Project Management Professional</b><br/>
+      <sub>🏷️ Google — Certificate</sub><br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/9EH20KD7OCLC">🔗 View Certificate</a>
     </td>
-  </tr>
-  <tr>
-    <td>📋 <b>Project Management</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jira_Cloud_Work_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    <td width="33%" valign="top">
+      <b>Agile Essentials</b><br/>
+      <sub>🏷️ Google — Certificate</sub><br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/93RTQLJUZ9PA">🔗 View Certificate</a>
     </td>
-  </tr>
-  <tr>
-    <td>📈 <b>Marketing & Business</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Digital_Marketing_%26_Ecommerce-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>🔌 <b>API & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Postman_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <td width="33%" valign="top">
+      <b>Agile Project Management with Jira Cloud</b><br/>
+      <sub>🏷️ LinkedIn Learning — Certificate (Projects, Boards, Issues)</sub><br/><br/>
+      <a href="https://www.linkedin.com/learning/certificates/8b15db94aeaf3e5e4c36e749f4920ad147c90d64b32e697738e2a8de52e719b2">🔗 View Certificate</a>
     </td>
   </tr>
 </table>
