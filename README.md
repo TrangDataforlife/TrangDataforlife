@@ -5,14 +5,11 @@ Readme hero section · MD
   <tr>
     <td width="65%" valign="middle">
       <h1>Phuong Trang</h1>
-      <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY</h3>
+      <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY | ANALYTICS ENGINEER</h3>
       <p>
         🚀 Building data pipelines from raw data to clean, decision-ready insights<br/>
         📊 Turning e-commerce data into practical dashboards & reports
       </p>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://aspect-consulting.com/wp-content/uploads/2024/03/aspect-consulting-business-intelligence-banner-1.jpg" width="100%" />
     </td>
   </tr>
 </table>
