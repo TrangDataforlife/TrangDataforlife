@@ -1,9 +1,40 @@
 I'm a fresher Management Information System (MIS), minor in E-commerce management student at Banking University of Ho Chi Minh City.
 
 Readme hero section · MD
-<div align="center"> <img src="https://aspect-consulting.com/wp-content/uploads/2024/03/aspect-consulting-business-intelligence-banner-1.jpg" width="100%" alt="Phuong Trang Banner" /> </div> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Data+Operations+%7C+Data+Quality+%7C+Analytics+Engineer;Turning+Raw+Ecommerce+Data+Into+Clear+Decisions;Python+%7C+SQL+%7C+dbt+%7C+Power+BI+%7C+Modern+Data+Stack;Bridging+Operations+Data+and+Business+Insights"/> </p> <p align="center"> <a href="mailto:phuongtrangnguyenha.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp; <a href="https://www.linkedin.com/in/nguyenhaphuongtrang"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp; <a href="https://github.com/TrangDataforlife"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp; <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
+<table width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <h1>Phuong Trang</h1>
+      <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY</h3>
+      <p>
+        🚀 Building data pipelines from raw data to clean, decision-ready insights<br/>
+        📊 Turning e-commerce data into practical dashboards & reports
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://aspect-consulting.com/wp-content/uploads/2024/03/aspect-consulting-business-intelligence-banner-1.jpg" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<table width="100%"> <tr> <td width="65%" valign="middle"> <h1>Phuong Trang</h1> <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY </h3> <p> 🚀 Building data pipelines from raw data to clean, decision-ready insights<br/> 📊 Turning e-commerce data into practical dashboards & reports </p> </td> <td width="35%" align="center"> <img src="https://aspect-consulting.com/wp-content/uploads/2024/03/aspect-consulting-business-intelligence-banner-1.jpg" width="100%" /> </td> </tr> </table> <p align="center"> <code>Data Analyst</code> | <code>Data Operations</code> | <code> Data Quality </code> </p> <p align="center"> <a href="mailto:your-phuongtrangnguyenha.work@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/nguyenhaphuongtrang"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/TrangDataforlife"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <hr/> <h3>🧭 ABOUT ME</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Data+Operations+%7C+Data+Quality+%7C+Analytics+Engineer;Turning+Raw+Ecommerce+Data+Into+Clear+Decisions;Python+%7C+SQL+%7C+dbt+%7C+Power+BI+%7C+Modern+Data+Stack;Bridging+Operations+Data+and+Business+Insights"/>
+</p>
+
+<p align="center">
+  <code>Data Analyst</code> | <code>Data Operations</code> | <code>Data Quality</code>
+</p>
+
+<p align="center">
+  <a href="mailto:phuongtrangnguyenha.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nguyenhaphuongtrang"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/TrangDataforlife"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<hr/>
+
+<h3>🧭 ABOUT ME</h3>
 
 Relevant coursework: E-commerce, SEO, Business Analyst, Econometrics, Statistics, Analyze & Design Information System, Data Visualization, Database Systems, C, C++, Java, C# programming.
 
