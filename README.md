@@ -25,9 +25,9 @@
 
 <hr/>
 
-My personal projects and certificates are attatched below, please take your time to look through. I hope we can work together if I have oppotunities.
-
+<p align="center"> My personal projects and certificates are attatched below, please take your time to look through. I hope we can work together if I have oppotunities.
 *Some file pdf first you maybe encounter "unable to render" after clicking, please reload page or download file pdf.
+</p>
 
 <div align="center">
 
