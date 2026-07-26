@@ -2,11 +2,11 @@
   <h1>Nguyễn Hà Phương Trang</h1>
   <h2>(Fresher Management Information System)</h2>
   <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY | ANALYTICS ENGINEER</h3>
-  <h4>e-mail: phuongtrangnguyenha.work@gmail.com</h4>
   <p>
     🚀 Building data pipelines from raw data to clean, decision-ready insights<br/>
     📊 Turning e-commerce data into practical dashboards & reports
   </p>
+   <h4 align="center">gmail: phuongtrangnguyenha.work@gmail.com</h4>
 </div>
 
 <p align="center">
