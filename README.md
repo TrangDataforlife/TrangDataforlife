@@ -25,18 +25,6 @@
 
 <hr/>
 
-Relevant coursework: E-commerce, SEO, Business Analyst, Econometrics, Statistics, Analyze & Design Information System, Data Visualization, Database Systems, C, C++, Java, C# programming.
-
-**My personal projects** regarding:
-1. Data Build Tool (dbt) hands-on projects;
-2. Extract comment list on youtube via Youtube v3 api;
-3. Data analysis | Analytical thinking in Customer shopping behaviour, Digital Ads, and HR with PostgreSQL, Python, PowerBI;
-4. Product design: UI/UX; design thinking with Draw.io, Balsamiq, Figma, StartUML, and Google Stitch tools;
-5. Product owner role : Sketching AI Product applied in Recruitment process;
-6. api Weather : Basic understanding of RESTapi in HTTP protocol with Postman;
-7. E-commerce fictional shop which operated on Shopify - Academic project;
-8. Scrum stimulation role.
-
 My personal projects and certificates are attatched below, please take your time to look through. I hope we can work together if I have oppotunities.
 
 *Some file pdf first you maybe encounter "unable to render" after clicking, please reload page or download file pdf.
