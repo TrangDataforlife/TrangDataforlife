@@ -37,7 +37,7 @@ My personal projects and certificates are attatched below, please take your time
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
-<table width="100%">
+<table width="20%">
   <tr>
     <td width="20%">📥 <b>Ingest & Collect</b></td>
     <td>
