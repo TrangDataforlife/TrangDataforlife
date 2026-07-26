@@ -390,6 +390,12 @@
 
 <p align="center">
   <a href="https://ux-portfolio-00e467.webflow.io/project/the-main">
+    <img src="UX.JPG" width="800" />
+    <br>
+  </a>
+</p>
+<p align="center">
+  <a href="https://ux-portfolio-00e467.webflow.io/project/the-main">
     <img src="https://img.shields.io/badge/View%20My%20UI/UX_Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
@@ -441,14 +447,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://ux-portfolio-00e467.webflow.io/project/the-main">
-    <img src="UX.JPG" width="800" />
-    <br>
-  </a>
-</p>
-
 
 ## 🔗 Let's Connect
 * 🌐 **Website UX/UI - Product Owner Portfolio:** [Visit My Website](https://ux-portfolio-00e467.webflow.io/)
