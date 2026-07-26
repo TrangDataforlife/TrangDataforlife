@@ -31,6 +31,8 @@ My personal projects and certificates are attatched below, please take your time
 
 ### 📜 LANGUAGES & OFFICE INFORMATICS TESTIMONIALS:
 
+<h3 align="center">🌐 Languages & Office Informatics</h3> <table width="100%"> <tr> <th width="50%" align="center">LANGUAGES</th> <th width="50%" align="center">OFFICE INFORMATICS</th> </tr> <tr> <td align="center" valign="top"> <b>TOEIC</b><br/><br/> <a href="https://drive.google.com/file/d/1sIk_gmI7wYqdhyTSFz_RJw5nsV6aeu_Q/view?usp=sharing">825/990 L+R & 320/400 S+W</a> </td> <td align="center" valign="top"> <b>MOS 2016 — Specialist (Excel, PowerPoint, Word)</b><br/><br/> <a href="https://drive.google.com/file/d/1PualKH2xM1FnVP9ag2BNruroeMpwxGT9/view?usp=drive_link">Microsoft Word Specialist 2016</a><br/> <a href="https://drive.google.com/file/d/1omrOWr1FdWvWzT6c4J6iOQybP2-xwVgr/view?usp=drive_link">Microsoft Excel Specialist 2016</a><br/> <a href="https://drive.google.com/file/d/1WR13LBj6Vm7v0I8HHej5seQdta-4u27b/view?usp=drive_link">Microsoft PowerPoint Specialist 2016</a> </td> </tr> </table>
+
 | LANGUAGES | OFFICE INFORMATICS |
 | :--- | :--- |
 | **TOEIC** <br> [825/990 L+R & 320/400 S+W](https://drive.google.com/file/d/1sIk_gmI7wYqdhyTSFz_RJw5nsV6aeu_Q/view?usp=sharing)| **MOS 2016 - Specialist (Excel, PowerPoint, Word)** <br><br> • [Microsoft Word Specialist 2016](https://drive.google.com/file/d/1PualKH2xM1FnVP9ag2BNruroeMpwxGT9/view?usp=drive_link) <br> • [Microsoft Excel Specialist 2016](https://drive.google.com/file/d/1omrOWr1FdWvWzT6c4J6iOQybP2-xwVgr/view?usp=drive_link) <br> • [Microsoft PowerPoint Specialist 2016](https://drive.google.com/file/d/1WR13LBj6Vm7v0I8HHej5seQdta-4u27b/view?usp=drive_link) |
