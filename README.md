@@ -388,6 +388,12 @@
 
 ### 🎨 Product & UX Design Projects
 
+<p align="center">
+  <a href="https://ux-portfolio-00e467.webflow.io/project/the-main">
+    <img src="https://img.shields.io/badge/View%20My%20UI/UX_Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -443,11 +449,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://ux-portfolio-00e467.webflow.io/project/the-main">
-    <img src="https://img.shields.io/badge/View%20My%20UI/UX_Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
 
 ## 🔗 Let's Connect
 * 🌐 **Website UX/UI - Product Owner Portfolio:** [Visit My Website](https://ux-portfolio-00e467.webflow.io/)
