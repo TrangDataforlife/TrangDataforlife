@@ -37,61 +37,6 @@ Relevant coursework: E-commerce, SEO, Business Analyst, Econometrics, Statistics
 7. E-commerce fictional shop which operated on Shopify - Academic project;
 8. Scrum stimulation role.
 
-**My relevant course certificates**: 
-TOEIC 4 Skills, dbt fundamentals, Crash course on Python, Jira Cloud Work Management, SQL-intermediate hackerrank, Google AI essentials, Googld Digital marketing & E-commerce, Google Data Analyst, Quantitative Analysis, Google Project Management, Claude 101, PostmanAPI.
-
-<h3 align="center">🎓 My Relevant Course Certificates</h3>
-
-<table width="100%">
-  <tr>
-    <td width="20%">🗣️ <b>Language & Soft Skills</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TOEIC_4_Skills-CC2927?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td>📊 <b>Data Analytics</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Data_Analyst-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Quantitative_Analysis-2563EB?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/SQL_Intermediate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>🔄 <b>Data Engineering</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/dbt_Fundamentals-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-      <img src="https://img.shields.io/badge/Crash_Course_on_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>🤖 <b>AI & Modern Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude_101-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>📋 <b>Project Management</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jira_Cloud_Work_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>📈 <b>Marketing & Business</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Digital_Marketing_%26_Ecommerce-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>🔌 <b>API & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Postman_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
 My personal projects and certificates are attatched below, please take your time to look through. I hope we can work together if I have oppotunities.
 
 *Some file pdf first you maybe encounter "unable to render" after clicking, please reload page or download file pdf.
@@ -177,6 +122,57 @@ My personal projects and certificates are attatched below, please take your time
 </table>
 
 ### 🥇 My Self-learning TESTIMONIAL:
+<h3 align="center">🎓 My Relevant Course Certificates</h3>
+
+<table width="100%">
+  <tr>
+    <td width="20%">🗣️ <b>Language & Soft Skills</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TOEIC_4_Skills-CC2927?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td>📊 <b>Data Analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Data_Analyst-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Quantitative_Analysis-2563EB?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/SQL_Intermediate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>🔄 <b>Data Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/dbt_Fundamentals-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+      <img src="https://img.shields.io/badge/Crash_Course_on_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>🤖 <b>AI & Modern Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_101-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>📋 <b>Project Management</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira_Cloud_Work_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>📈 <b>Marketing & Business</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Digital_Marketing_%26_Ecommerce-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>🔌 <b>API & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Postman_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 | IT DA/BA TOOLKITS | GENRE | TESTIMONIAL |
 | :---: | :---: | :--- |
