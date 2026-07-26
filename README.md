@@ -2,6 +2,7 @@
   <h1>Nguyễn Hà Phương Trang</h1>
   <h2>(Fresher Management Information System)</h2>
   <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY | ANALYTICS ENGINEER</h3>
+  <h4>e-mail: phuongtrangnguyenha.work@gmail.com</h4>
   <p>
     🚀 Building data pipelines from raw data to clean, decision-ready insights<br/>
     📊 Turning e-commerce data into practical dashboards & reports
@@ -17,7 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:phuongtrangnguyenha.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/nguyenhaphuongtrang"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://ux-portfolio-00e467.webflow.io/project/the-main"><img src="https://img.shields.io/badge/UX%2FUI_Portfolio-4353FF?style=for-the-badge&logo=webflow&logoColor=white"/>
 </a>
