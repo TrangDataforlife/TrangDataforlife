@@ -58,7 +58,7 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="30%">📥 <b>Ingest & Collect</b></td>
+    <td width="45%">📥 <b>Ingest & Collect</b></td>
     <td>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
       <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square" />
