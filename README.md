@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Phuong Trang</h1>
+  <h1>Nguyễn Hà Phương Trang</h1>
   <h2>(Fresher Management Information System)</h2>
   <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY | ANALYTICS ENGINEER</h3>
   <p>
