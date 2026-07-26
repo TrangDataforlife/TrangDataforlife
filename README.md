@@ -43,6 +43,7 @@ My personal projects and certificates are attatched below, please take your time
     <td>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
       <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
     </td>
