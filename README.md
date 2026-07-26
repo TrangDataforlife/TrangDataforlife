@@ -1,18 +1,20 @@
 I'm a fresher Management Information System (MIS), minor in E-commerce management student at Banking University of Ho Chi Minh City.
 
 Readme hero section · MD
-<table width="100%">
-  <tr>
-    <td width="65%" valign="middle">
-      <h1>Phuong Trang</h1>
-      <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY | ANALYTICS ENGINEER</h3>
-      <p>
-        🚀 Building data pipelines from raw data to clean, decision-ready insights<br/>
-        📊 Turning e-commerce data into practical dashboards & reports
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table width="100%">
+    <tr>
+      <td width="65%" valign="middle">
+        <h1>Phuong Trang</h1>
+        <h3>🎓 DATA ANALYST | DATA OPERATIONS | DATA QUALITY | ANALYTICS ENGINEER</h3>
+        <p>
+          🚀 Building data pipelines from raw data to clean, decision-ready insights<br/>
+          📊 Turning e-commerce data into practical dashboards & reports
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Data+Operations+%7C+Data+Quality+%7C+Analytics+Engineer;Turning+Raw+Ecommerce+Data+Into+Clear+Decisions;Python+%7C+SQL+%7C+dbt+%7C+Power+BI+%7C+Modern+Data+Stack;Bridging+Operations+Data+and+Business+Insights"/>
