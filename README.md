@@ -360,7 +360,7 @@
       <b>Digital Logistics & Sales Analysis</b><br/>
       <sub>🏷️ Power BI</sub><br/><br/>
       .<br/>Foundation data analysis skills và findings presentation trên Power BI.<br/>
-      <a href="https://github.com/TrangDataforlife/PowerBI_Logistics_and_Sales_Analysis">🔗 My Data Analyst Portfolio</a>
+      <a href="https://github.com/TrangDataforlife/PowerBI_Logistics_and_Sales_Analysis">🔗 View Project</a>
     </td>
     <td width="25%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
