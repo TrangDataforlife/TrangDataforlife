@@ -306,6 +306,13 @@
       Dự án kinh doanh thời trang nam trên Shopify: business canvas model, marketing plan. Phụ trách market research, xây dựng mô hình kinh doanh fictional shop, lên kế hoạch digital marketing, vận hành shop (upload sản phẩm).<br/><br/>
       <a href="https://drive.google.com/file/d/1jhWhHeDzSyX1aMxwFkYmMHcP173bS1_r/view?usp=sharing">🔗 View Project</a>
     </td>
+      <td width="100%" valign="top">
+      <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
+      <b>Aomen Shop</b><br/>
+      <sub>🏷️ Digital Marketing Proposal </sub><br/><br/>
+      Đề xuất kế hoạch digital marketing dựa trên dữ liệu.<br/><br/>
+      <a href="https://github.com/TrangDataforlife/Marketing_Proposal">🔗 View Project</a>
+    </td>
   </tr>
 </table>
 
