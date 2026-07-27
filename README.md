@@ -206,33 +206,33 @@
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <img src="https://img.shields.io/badge/✅_Certificate-16A34A?style=flat-square" /><br/>
       <b>Crash Course on Python</b><br/>
       <sub>🏷️ Coursera</sub><br/><br/>
       <sub>Data Types; Data Structures & Methods- List, Dictionary, Tuple, Set; Programming: for loop, while, lambda function, comprehensive functions.</sub><br/><br/>
       <a href="https://coursera.org/share/402da06fb2f9a4f2e9b19f6d9137d9d1">🔗 View Certificate</a>
     </td>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <img src="https://img.shields.io/badge/✅_Certificate-16A34A?style=flat-square" /><br/>
       <b>Python - Intermediate</b><br/>
       <sub>🏷️ Coursera</sub><br/><br/>
       <sub> Khóa học Python Trung cấp dành cho người đã hoàn thành Python Cơ bản. Bạn sẽ học cách viết hàm chuyên nghiệp, thành thạo list comprehension, dictionary, set, xử lý lỗi và áp dụng vào các bài toán xử lý dữ liệu thực tế — nền tảng vững chắc trước khi học Pandas và Data Analysis. </sub><br/><br/>
       <a href="https://xomdata.com/certificates/XA-M6CTV2">🔗 View Certificate</a>
     </td>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <img src="https://img.shields.io/badge/✅_Certificate-16A34A?style=flat-square" /><br/>
       <b>AI Essentials</b><br/>
       <sub>🏷️ Coursera</sub><br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/verify/BFQNAH1IO5VP">🔗 View Certificate</a>
     </td>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <img src="https://img.shields.io/badge/✅_Certificate-16A34A?style=flat-square" /><br/>
       <b>Claude 101</b><br/>
       <sub>🏷️ Anthropic</sub><br/><br/>
       <a href="certificate_claude.pdf">🔗 View Certificate</a>
     </td>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <img src="https://img.shields.io/badge/✅_Certificate-16A34A?style=flat-square" /><br/>
       <b>Postman API</b><br/>
       <sub>🏷️ Postman</sub><br/><br/>
