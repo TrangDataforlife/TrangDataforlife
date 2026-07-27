@@ -308,8 +308,8 @@
     </td>
       <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
-      <b>Aomen Shop</b><br/>
-      <sub>🏷️ Digital Marketing Proposal </sub><br/><br/>
+      <b> Digital Marketing Proposal </b><br/>
+      <sub>🏷️ A fiction fashion shop </sub><br/><br/>
       Đề xuất kế hoạch digital marketing dựa trên dữ liệu.<br/><br/>
       <a href="https://github.com/TrangDataforlife/Marketing_Proposal">🔗 View Project</a>
     </td>
