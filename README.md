@@ -362,6 +362,13 @@
       Lưu trữ portfolio phân tích dữ liệu bằng Notion, phân tích với Looker Studio & Power BI.<br/><br/>
       <a href="https://app.notion.com/p/Data-Analyst-Portfolio-practice-tool-21d8ba8ff45c80f1b741c2dae08d7a9a">🔗 My Data Analyst Portfolio</a>
     </td>
+    <td width="33%" valign="top">
+      <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
+      <b>Digital Logistics & Sales Analysis</b><br/>
+      <sub>🏷️ Power BI</sub><br/><br/>
+      .<br/>Foundation data analysis skills và findings presentation trên Power BI.<br/>
+      <a href="https://github.com/TrangDataforlife/PowerBI_Logistics_and_Sales_Analysis">🔗 My Data Analyst Portfolio</a>
+    </td>
   </tr>
 </table>
 
