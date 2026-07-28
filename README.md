@@ -387,7 +387,7 @@
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b> [TopCV] Web Scrapper </b><br/>
       <sub>🏷️ using BeautifulSoup, Requests library </sub><br/><br/>
-      Project phục vụ việc học sử dụng python để thu thập dữ liệu trên web bằng Python.<br/><br/>
+      Project phục vụ việc học sử dụng python để thu thập dữ liệu trên TopCV bằng API.<br/><br/>
       <a href="https://github.com/TrangDataforlife/-TopCV-Web-Scrapper">🔗 View Project</a>
     </td>
     <td width="33%" valign="top">
