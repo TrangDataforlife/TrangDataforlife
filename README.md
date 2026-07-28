@@ -383,14 +383,21 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
+      <b> [TopCV] Web Scrapper </b><br/>
+      <sub>🏷️ using BeautifulSoup, Requests library </sub><br/><br/>
+      Project phục vụ việc học sử dụng python để thu thập dữ liệu trên web bằng Python.<br/><br/>
+      <a href="https://github.com/TrangDataforlife/-TopCV-Web-Scrapper">🔗 View Project</a>
+    </td>
+    <td width="33%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>Extract Data with YouTube V3 API</b><br/>
       <sub>🏷️ YouTube API</sub><br/><br/>
       Lấy danh sách comment của 1 video YouTube.<br/><br/>
       <a href="https://github.com/TrangDataforlife/apiYoutube">🔗 View Project</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>Weather App</b><br/>
       <sub>🏷️ Postman API, Python — Credit: Coding with Evan</sub><br/><br/>
