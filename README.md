@@ -60,7 +60,6 @@
   <tr>
     <td width="45%">📥 <b>Ingest & Collect</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
       <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
