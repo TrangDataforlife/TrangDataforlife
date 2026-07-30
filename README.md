@@ -346,6 +346,18 @@
 
 ### 📊 Data Analysis Projects
 
+<table width = '100%'>
+  <tr>
+    <td width="100%" valign="top">
+      <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
+      <b>Customer Cohort Analysis</b><br/>
+      <sub>🏷️ Python </sub><br/><br/>
+        Phân tích retention rate trong lĩnh vực bán lẻ <br/><br/>
+      <a href="https://github.com/TrangDataforlife/Cohort-Analysis">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
+
 <table width="100%">
   <tr>
     <td width="25%" valign="top">
