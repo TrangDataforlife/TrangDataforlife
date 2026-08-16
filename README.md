@@ -354,8 +354,6 @@
         Phân tích retention rate trong lĩnh vực bán lẻ <br/><br/>
       <a href="https://github.com/TrangDataforlife/Cohort-Analysis">🔗 View Project</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>E-commerce Analysis</b><br/>
