@@ -354,14 +354,14 @@
 
 <table width = '100%'>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>Customer Cohort Analysis</b><br/>
       <sub>🏷️ Python </sub><br/><br/>
         Phân tích retention rate trong lĩnh vực bán lẻ <br/><br/>
       <a href="https://github.com/TrangDataforlife/Cohort-Analysis">🔗 View Project</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>E-commerce Analysis</b><br/>
       <sub>🏷️ Python </sub><br/><br/>
