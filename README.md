@@ -315,30 +315,37 @@
   </tr>
 </table>
 
-### 🔄 Data Engineering Projects (dbt)
+### 🔄 Data Engineering Projects
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>dbt Fundamentals Project</b><br/>
       <sub>🏷️ dbt + Snowflake — Credit: dbt Labs</sub><br/><br/>
       Dataset <code>Jaffle_shop</code> trên Snowflake. Refactor model thành staging & marts, modularity, Jinja & macros, singular/generic testing, documentation.<br/><br/>
       <a href="https://github.com/TrangDataforlife/dbt_fundamentals">🔗 View Project</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>Kimball Dimensional Model</b><br/>
       <sub>🏷️ dbt — Credit: Jonathan Neo (Data Engineer @ Canva)</sub><br/><br/>
       Thực hành khái niệm Kimball dimensional modelling.<br/><br/>
       <a href="https://github.com/TrangDataforlife/dbt-dimensional-modelling">🔗 View Project</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>Netflix S3 → Snowflake → dbt</b><br/>
       <sub>🏷️ dbt — Credit: Darshil Parmar</sub><br/><br/>
       Incremental model, SCD type 1/2, Snapshot, surrogate key (<code>dbt_utils</code>). Dataset MovieLens 20M từ S3 → Snowflake → dbt.<br/><br/>
       <a href="https://github.com/TrangDataforlife/netflix_S3_Snowflake_dbt">🔗 View Project</a>
+    </td>
+    <td width="25%" valign="top">
+      <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
+      <b>Customer Shopping Behaviour Analysis</b><br/>
+      <sub>🏷️ PostgreSQL, Python, Power BI</sub><br/><br/>
+      ETL pipeline với PostgreSQL, Python, Power BI, kèm findings presentation.<br/><br/>
+      <a href="https://github.com/TrangDataforlife/customer_trends_data_analysis_PostgreSQL_Python_PowerBI/tree/main">🔗 View Project</a>
     </td>
   </tr>
 </table>
@@ -366,28 +373,21 @@
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top">
-      <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
-      <b>Customer Shopping Behaviour Analysis</b><br/>
-      <sub>🏷️ PostgreSQL, Python, Power BI</sub><br/><br/>
-      ETL pipeline với PostgreSQL, Python, Power BI, kèm findings presentation.<br/><br/>
-      <a href="https://github.com/TrangDataforlife/customer_trends_data_analysis_PostgreSQL_Python_PowerBI/tree/main">🔗 View Project</a>
-    </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>HR Analysis Dashboard</b><br/>
       <sub>🏷️ Power BI</sub><br/><br/>
       Foundation data analysis skills và findings presentation trên Power BI.<br/><br/>
       <a href="https://github.com/TrangDataforlife/HR_Dashboard">🔗 View Project</a>
     </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>Digital Logistics & Sales Analysis</b><br/>
       <sub>🏷️ Power BI</sub><br/><br/>
       .<br/>Foundation data analysis skills và findings presentation trên Power BI.<br/>
       <a href="https://github.com/TrangDataforlife/PowerBI_Logistics_and_Sales_Analysis">🔗 View Project</a>
     </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <img src="https://img.shields.io/badge/🛠️_Project-2563EB?style=flat-square" /><br/>
       <b>Digital Marketing Performance Analysis</b><br/>
       <sub>🏷️ Notion, Google Looker Studio, Power BI</sub><br/><br/>
