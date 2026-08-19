@@ -127,8 +127,8 @@
     </td>
   </tr>
   <tr>
-    <td><b>Web development</b></td>
-    <td>HTML, CSS, JavaScript</td>
+    <td><b>Front-end</b></td>
+    <td>HTML, CSS, JavaScript, DOM</td>
   </tr>
 </table>
 
