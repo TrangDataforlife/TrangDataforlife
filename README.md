@@ -128,7 +128,7 @@
   </tr>
   <tr>
     <td><b>Web development</b></td>
-    <td>HTML, CSS, JAVASCRIPT</td>
+    <td>HTML, CSS, JavaScript</td>
   </tr>
 </table>
 
