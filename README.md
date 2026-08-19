@@ -126,6 +126,10 @@
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td><b>Web development</b></td>
+    <td>HTML, CSS, JAVASCRIPT</td>
+  </tr>
 </table>
 
 <h3 align="center">🏆 Certificates & Projects</h3>
