@@ -127,8 +127,8 @@
     </td>
   </tr>
   <tr>
-    <td><b>Front-end</b></td>
-    <td>HTML, CSS, JavaScript, DOM</td>
+    <td><b>Front-end basics for semantic website </b></td>
+    <td>HTML, CSS, JavaScript </td>
   </tr>
 </table>
 
